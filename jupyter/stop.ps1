@@ -1,1 +1,0 @@
-docker kill lectionary-jupyter
